@@ -1,4 +1,4 @@
-# 🧠 Customer Churn Prediction – Model Development, Validation, and Deployment
+# Customer Churn Prediction – Model Development, Validation, and Deployment
 **Course Code:** 21AIC401T  
 **Course Name:** Inferential Statistics and Predictive Analytics  
 **Institution:** SRM University – Department of Computational Intelligence, School of Computing  
@@ -8,14 +8,14 @@
 
 ---
 
-## 📘 Project Overview
+## Project Overview
 Customer churn represents a major challenge for telecom and subscription-based industries. This project develops a **predictive machine learning model** to identify customers likely to churn, using the **Telco Customer Churn dataset** from Kaggle.
 
 The project demonstrates the complete lifecycle of a data analytics pipeline — including **data cleaning, EDA, CHAID rule induction, logistic regression modeling, model evaluation, and deployment.**
 
 ---
 
-## 🎯 Objective
+## Objective
 To build, validate, compare, and deploy a **Customer Churn Prediction Model** using statistical and predictive modeling concepts such as:
 - Data inference and feature correlation
 - Model validation and evaluation metrics
@@ -25,7 +25,7 @@ To build, validate, compare, and deploy a **Customer Churn Prediction Model** us
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 ```
 Customer-Churn-Prediction/
 │
@@ -52,7 +52,7 @@ Customer-Churn-Prediction/
 
 ---
 
-## ⚙️ Tools & Technologies
+## Tools & Technologies
 | Category | Tool |
 |-----------|------|
 | Programming | Python (Jupyter Notebook) |
@@ -64,7 +64,7 @@ Customer-Churn-Prediction/
 
 ---
 
-## 🧩 Project Workflow
+## Project Workflow
 
 ### **1️⃣ Data Preparation & EDA (5 Marks)**
 - Dataset loaded and cleaned (missing values, outliers, duplicates removed).  
@@ -129,7 +129,7 @@ Customer-Churn-Prediction/
 ### **Step 1:** Clone the repository
 ```bash
 git clone https://github.com/koushikkb12/ISPA_Customer_Churn_Predict.git
-cd Customer-Churn-Prediction
+cd ISPA_Customer_Churn_Predict
 ```
 
 ### **Step 2:** Install dependencies
