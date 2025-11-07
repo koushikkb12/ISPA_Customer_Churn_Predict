@@ -128,7 +128,7 @@ Customer-Churn-Prediction/
 
 ### **Step 1:** Clone the repository
 ```bash
-git clone https://github.com/pragatishpragatish/Customer-Churn-Prediction.git
+git clone https://github.com/koushikkb12/ISPA_Customer_Churn_Predict.git
 cd Customer-Churn-Prediction
 ```
 
